@@ -1,0 +1,12 @@
+img{
+    border-radius: 25px;
+    filter: drop-shadow(0 0 0.75rem rgb(84, 154, 233));
+}
+
+h3 {
+    
+}
+
+h3:hover{
+    filter: drop-shadow(0 0 0.75rem rgb(233, 84, 141));
+}
